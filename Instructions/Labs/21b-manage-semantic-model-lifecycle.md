@@ -70,7 +70,7 @@ In this task, you create a lakehouse and generate the sample data.
 
 1. Name the lakehouse `SalesLakehouse`. It may take a minute for the lakehouse to create.
 
-1. Once the lakehouse opens, select **Open notebook > Existing notebook** from the toolbar.
+1. Once the lakehouse opens, select the **Analyze data with** drop-down on the right-hand side, then select **Notebook** > **Existing notebook**.
 
 1. Select the notebook you just uploaded — `21b-manage-semantic-model-lifecycle` — and select **Open**.
 
